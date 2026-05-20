@@ -84,7 +84,7 @@ El sistema gestiona una base de datos relacional compleja que incluye:
 
 ## Video Demostrativo App
 
-<video src="Imagenes/videoBoost.mp4" width="600" controls></video>
+[![Ver demostración](https://img.youtube.com/vi/sAxPIa9pQGA/0.jpg)](https://youtu.be/sAxPIa9pQGA)
 ---
 
 ##  Autores
