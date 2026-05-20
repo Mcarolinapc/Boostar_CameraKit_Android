@@ -5,7 +5,7 @@
 >
 
 [![Descargar PDF](https://img.shields.io/badge/Descargar-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](Documentacion/Documentacion_Boostar.pdf)
-[![Ir al repositorio](https://img.shields.io/badge/GitHub-Ir_al_repositorio-181717?style=for-the-badge&logo=github)](https://github.com/Marc-Diaz/BoostAR-uaal.git)
+
 
 ---
 **Boostar** es una aplicación móvil de comercio electrónico de ropa que integra tecnologías de **realidad aumentada (AR)** para transformar la experiencia de compra online. La aplicación permite a los usuarios visualizar cómo les quedaría una prenda antes de comprarla mediante un sistema virtual de "Try It On".
