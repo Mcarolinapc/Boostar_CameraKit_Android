@@ -50,7 +50,7 @@ El desarrollo sigue el patrón **MVVM (Modelo-Vista-ViewModel)**, separando el c
 
 
 3. **Repositorios**: Se utilizan interfaces para abstraer la fuente de datos, permitiendo intercambiar implementaciones entre Supabase y repositorios *mock* para pruebas.
-![Arquitectura](imagenes/arquitectura.png)
+![Arquitectura](Imagenes/arquitectura.png)
 
 
 
@@ -70,7 +70,7 @@ El sistema gestiona una base de datos relacional compleja que incluye:
 
 ##  Flujo de la Aplicación
 
-![Grafo navegación](imagenes/navegacion.png)
+![Grafo navegación](Imagenes/navegacion.png)
 
 
 ##  Estado del Proyecto y Mejoras
@@ -94,4 +94,4 @@ El sistema gestiona una base de datos relacional compleja que incluye:
 
 
 * **Fecha**: 12/05/2026
-![Marc y Mich](imagenes/marcymich.jpeg)
+![Marc y Mich](Imagenes/marcymich.jpeg)
