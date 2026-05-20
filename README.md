@@ -82,6 +82,11 @@ El sistema gestiona una base de datos relacional compleja que incluye:
 
 ---
 
+## Video Demostrativo App
+
+<video src="Imagenes/videoBoost.mp4" width="600" controls></video>
+---
+
 ##  Autores
 
 * **Marc Díaz Seuma** 
