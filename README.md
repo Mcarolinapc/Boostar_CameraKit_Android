@@ -20,8 +20,8 @@
 ### Colaboración Interinstitucional y Coworking
 Este proyecto destaca por ser un **esfuerzo conjunto y multidisciplinar** desarrollado entre tres centros educativos, simulando un entorno de trabajo real y utilizando una **metodología de trabajo híbrida que incluyó un viaje y sesiones de coworking presenciales** en Mallorca:
 * **Desarrollo Tecnológico (Frontend/Backend/AR):** Institut Tecnològic de Barcelona (ITB).
-* **Administración y Finanzas:** Instituto de Mallorca (Plan de viabilidad, modelo de negocio y validación financiera, con quienes se realizó el coworking presencial).
-* **Patronaje y Moda:** (Diseño de prendas y activos digitales).
+* **Administración y Finanzas:** Instituto Juníper de Mallorca (Plan de viabilidad, modelo de negocio y validación financiera, con quienes se realizó el coworking presencial).
+* **Patronaje y Moda:** Instituto Ana Gironella de Mundet (Diseño de prendas).
 
 ---
 
